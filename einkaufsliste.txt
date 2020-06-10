@@ -1,4 +1,5 @@
 Äpfel
-Birnen
 Orangen
 Cola
+Wurst
+Seezüngle
